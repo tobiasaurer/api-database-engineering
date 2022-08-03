@@ -1,0 +1,4 @@
+,city_id,city_name,country,population,timezone,coord.lat,coord.lon
+0,2950159,Berlin,DE,1000000,7200,52.5244,13.4105
+0,2643743,London,GB,1000000,3600,51.5085,-0.1257
+0,5128581,New York,US,8175133,-14400,40.7143,-74.006
