@@ -32,9 +32,9 @@ Main goals of the project:
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Make sure to have the following libraries environment:
-  * pandas
-  * requests
-  * matplotlib
+    - pandas
+    - requests
+    - matplotlib
 3. Create an account at [Open Weather](https://openweathermap.org/) and insert your API-key in [api_keys.py](https://github.com/tobiasaurer/api-database-engineering/blob/main/api_keys.py)
 4. Create an account at [Rapid API](https://rapidapi.com/aedbx-aedbx/api/aerodatabox/) and insert your API-key in [api_keys.py](https://github.com/tobiasaurer/api-database-engineering/blob/main/api_keys.py)
 5. Visualisations are saved [here](https://github.com/tobiasaurer/api-database-engineering/tree/main/visualisations)
