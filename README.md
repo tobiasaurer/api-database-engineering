@@ -31,7 +31,7 @@ Main goals of the project:
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Make sure to have the following libraries environment:
+2. Make sure to have the following libraries in your environment:
     - pandas
     - requests
     - matplotlib
