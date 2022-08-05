@@ -22,6 +22,7 @@ A database will be built in mySQL Workbench based on the data.
 The data gathered is freely available:
 * Weather Data -> [Open Weather](https://openweathermap.org/).  
 * Airport Data -> [Rapid API](https://rapidapi.com/aedbx-aedbx/api/aerodatabox/)
+* City Data    -> [datahub.io](https://datahub.io/core/world-cities)
   
 Main goals of the project:  
 * Access weather and airport data via API-requests
