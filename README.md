@@ -55,7 +55,7 @@ Main goals of the project:
 1. Create an account at [Amazon Web Services](https://aws.amazon.com/de/) 
 2. Create a new SQL database in your AWS dashboard
 3. Copy the contents of [aws_lambda_function.py](https://github.com/tobiasaurer/api-database-engineering/blob/main/aws_lambda_function.py) into a lambda function, and replace the placeholders in the SQL connection and the API-Calls with the credentials of your new database 
-4. Schedule a trigger using Amazon Event Bridge to schedule regular execution of the lambda function. 
+4. Create an event-trigger using Amazon Event Bridge to schedule regular execution of the lambda function. 
 
 
 ## Featured Notebooks
